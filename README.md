@@ -1,5 +1,3 @@
-# react-static-portfolio
-A model of a basic web developer portfolio made in React.
 ### **Project Info**
 - **Project Name:** - React Static Portfolio
 - **Project Description:** - A model of a basic web developer portfolio made in React.
